@@ -1,4 +1,4 @@
-Basic JavaScript Tokenizer
+##Basic JavaScript Tokenizer
 This is a simple, browser-based application that demonstrates the fundamental concept of a tokenizer. It takes a sentence as input and converts it into a sequence of numerical "tokens." It can also perform the reverse operation, decoding the tokens back into the original sentence.
 
 How It Works
